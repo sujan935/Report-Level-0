@@ -240,7 +240,8 @@ An H-bridge is a special circuit with four electronic switches arranged in an â€
 
 By turning these switches on and off in a specific order, you can make electricity flow through the motor in one direction or the opposite direction. This clever trick lets you control which way the motor spins without having to physically reverse any wires.
 
-The animation below shows how an H-bridge works.
+
+The animation below shows how an H-bridge works :
 
 ![image alt](https://github.com/sujan935/speed_sujana/blob/main/H-Bridge-Working-Motor-Direction-Control-Animation.gif?raw=true) 
 
