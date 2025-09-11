@@ -42,7 +42,7 @@ Understand the working of a 3D printer, check out the online resources. Understa
 
   
   **These are the steps to  be follwed to get a perfect 3D model.**
-  # **TASK 2 : API**
+# **TASK 2 : API**
 ### OBJECTIVE :
 Learn about what is API and using any API of your choice, build a user interface (web app, mobile app, etc.) to make calls and display information.
 
@@ -99,7 +99,7 @@ Get familiar with the command line on Ubuntu by completing the following subtask
 ![image alt](https://github.com/sujan935/Ubuntu_Sujana/blob/main/ubutu.jpg?raw=true)
 
 ### **REFERENCE** : Mravel Website
-# **TASK 7 : CREATE A PORTPOLIO WEBPAGE**
+# **TASK 5 : CREATE A PORTPOLIO WEBPAGE**
 ### OBJECTIVE:
 Create a website to showcase your portfolio, including information about yourself, interests, projects, and social media profiles. Ensure the site is responsive and pushed to a git repository. Use any CSS framework of your choice.
 
@@ -117,7 +117,7 @@ Common sections include About Me, Projects, and Contact Info.
 ![image alt](https://github.com/sujan935/webpage_sujana/blob/main/webpage%20photo2%20.png?raw=true)
 
 ## **REFERENCE**: Online Resource
-# **TASK 8 : WRITING RESOURCE ARTICLE USING MARKDOWN**
+# **TASK 6 : WRITING RESOURCE ARTICLE USING MARKDOWN**
 ### OBJECTIVE:
 Markdown is a markup language used to format plain text. Write a technical resource article on a particular use case or application of UAVs. This article will help you gain technical knowledge and create a framework for future projects.
 
@@ -173,7 +173,7 @@ Can be fired from a submerged platform, emerging from the water to strike targ
 ## This is the briefy report of BRAHMOS missile.
 
 ### REFERENCE : Google Websites 
-# **TASK 9 : TINKERCAD**
+# **TASK 7 : TINKERCAD**
 ### OBJECTIVE:
 Create a Tinkercad account and familiarize yourself with the application. Simulate a simple circuit using an ultrasonic sensor to estimate the distance between an obstacle and the sensor, and display the results on the serial monitor. Create a radar system using an ultrasonic sensor and servo motor to detect objects within a certain range.
 
@@ -218,7 +218,7 @@ The division by 2 accounts for the round-trip (outgoing and incoming) journey of
   
 ![image alt](https://github.com/sujan935/Tinkercad_Sujana/blob/main/servo%20motor.webp?raw=true)
 ### **REFERENCE** : Online Website
-# **TASK 10: Speed Control of DC Motor**
+# **TASK 8: Speed Control of DC Motor**
 ### OBJECTIVE :
 Explore basic techniques for controlling DC motors, understand the control DC motors using the L298N motor driver and the Arduino board. Using an UNO and H-Bridge L298N motor driver, control the speed of a 5V BO motor, try simulating this on tinkercad and then perform it on the hardware, Record videos of you doing the same.
 
@@ -267,7 +267,7 @@ The image below shows how different duty cycles affect motor speed.
 ![image alt](https://github.com/sujan935/speed_sujana/blob/main/Wiring-L298N-Motor-Driver-Module-with-DC-TT-motors-and-Arduino-UNO.webp?raw=true) 
 
  [click here](https://youtube.com/shorts/oa2tgIEjD6g?si=8zxYxPXoynk-W21A_) to watch the video
- # **TASK 11: LED TOGGLE USING ESP32**
+ # **TASK 9 : LED TOGGLE USING ESP32**
 ### OBJECTIVE :
 Learn how to use an ESP32 to create a standalone web server that controls an LED connected to the ESP32 GPIOs. Use the Arduino IDE to code and upload the program to the ESP32.
 ### OUTCOMES & LEARNING :
@@ -285,7 +285,7 @@ Toggling an LED using an ESP32 means turning it on and off repeatedly by control
 
 
 [click here](https://youtube.com/shorts/GsJd_s3LEgA?si=QoC2dzkFno_dBAgg) to watch the video of this task.
-# **TASK 12 : SOLDERING**
+# **TASK 10 : SOLDERING**
 ### OBJECTIVE:
 Learn about soldering equipment such as solder, soldering iron, soldering wick, and flux. Perform basic soldering on a perf board, such as a simple LED circuit.
 
@@ -295,7 +295,7 @@ Learn about soldering equipment such as solder, soldering iron, soldering wick, 
   
 ## **Images of My Work**
 ![image alt](https://github.com/sujan935/soldering_sujana/blob/main/WhatsApp%20Image%202025-09-02%20at%2010.30.34_f486f89f.jpg?raw=true)![image alt](https://github.com/sujan935/soldering_sujana/blob/main/WhatsApp%20Image%202025-09-02%20at%2010.30.34_80da572d.jpg?raw=true)
-# **Task 13: Design a 555 Astable Multivibrator**
+# **Task 11 : Design a 555 Astable Multivibrator**
 ### OBJECTIVE :
 Design a 555 astable multivibrator with a duty cycle of 60%. Assemble the circuit on a breadboard and observe the output on a Digital Storage Oscilloscope (DSO).
 ## LEARNING & OUTCOMES :
@@ -325,7 +325,7 @@ And we need a digital storage oscilloscope(DSO)to get the duty cycle.
   ![image alt](https://github.com/sujan935/555-timer_sujana/blob/main/WhatsApp%20Image%202025-09-10%20at%2021.13.45_ef69dfdc.jpg?raw=true)
 
   [click here](https://youtu.be/2mNaawYyWAI?si=eWJliH5RJSQpzNPw) to watch the video
-  # **TASK 14 : ACTIVE PARTICIPATION**
+  # **TASK 12 : ACTIVE PARTICIPATION**
 ### OBJECTIVE:
 Participate in any technical event, inter-college or intra-college, and submit the issued certificate of participation. Enroll in and complete a MOOC course.
 ### **My HACK_A_MAZE CERTIFICATE :**
@@ -333,17 +333,81 @@ Participate in any technical event, inter-college or intra-college, and submit t
 ![image alt](https://github.com/sujan935/active_sujana/blob/main/active%20participation.jpg?raw=true)
 
 I participated in Hack-A-Maze competition conducted by IEE UVCE on the vocation of IMPETUS 25. I got the knowledge about  coding and I enjoyed the competition.
-# **Task 15: INTRODUTION TO VR**
+# **Task 13 : INTRODUTION TO VR**
 ### OBJECTIVE : 
 Familiarise yourself with what Virtual Reality is. Make a detailed study about what's the difference between VR and AR. Mention about the trends in the space and technology stack being developed. Make about Indian companies in this space. Make the report with detail.
 
 ## LEARNING & OUTCOMES :
 - In this task I learnt about what virtual reality is .
 - I played the task with the help of joystick.
-  
 - The main difference I observed b\w AR & VR is VR creates a different world in which we can run ,jump,play games etc.
 
 There are so many companies in INDIA are in this field such as tata elxsi, simbott etc.
 
 ![image ait](https://github.com/sujan935/Data-sheet_Sujana/blob/main/vr.webp?raw=true)
+# **DOMAIN SPECIFIC TASK**
+# **1.History of Aviation**
+### OBJECTIVE: 
+To learn about the history of Aviation & Drones.
+### OUTCOMES & LEARNING :
+  - Aviation is not a new domain or sector it has a long history from  Pre-20th century to now.
+  - Humans were tried many ways to succeed in this task but some are won and some are failed.
+  - Now also reserach are going on in this sector.
+  - Now so many countries are using advanced technology in their missile ,aircraft etc.
+   This is the development in the aviation sector.
+  
+  ### **Below is the detailed flowchart about history of aviation :**
+
+![image alt](https://github.com/sujan935/Aviation-_-history_Sujana/blob/main/AVIATION%20HISTORY%20FLOWCHART.PNG?raw=true)
+# **2.INTRODUTION TO FLIGHT SIMULATORS**
+## OBJECTIVE: 
+To learn manual controls, stability handling, and motor mixing using a drone simulator.
+
+## LEARNING & OUTCOMES :
+- It was my first experience with the RDS simulation.
+- In this task I learnt about how to operate the drone using the joystick.
+- With the help of coordinator I played the game in angle mode.
+- At first I crashed the drone but next I got the idea behind it,then I played very well.
+- In this task I learnt about yaw, throttle, pitch, roll & other channels in the drones.
+- This task helped me to learn the concept of drones.
+  
+ ### **Below is the Image of Motion of Drone and its Control**
+![image alt](https://github.com/sujan935/simulator_sujana/blob/main/simulator.jpg?raw=true)
+
+**Throttle of the drone:** All the 4 motors must rotate at a higher speed. Throttle is controlled by moving the left joystick up & down.
+
+**Yaw of the drone:** Any one set of diagonal motors (Say 3 & 4) rotate at a higher speed relative to the other diagonal motors (1 & 2), in order for the drone to Yaw. Yaw is controlled by moving the left joystick left & right.
+
+**Pitch of the drone:** For forward pitch, the rear motors (2 & 4) rotate faster than the front motors (1 & 3) and for backward pitch its the other way around. Pitch is controlled by moving the right joystick up & down.
+
+**Roll of the drone:** For right roll, the left motors (3 & 4) rotate faster than the ones on the right (1 & 4) and for left roll its the other way around. Roll is controlled by moving the right joystick left & right.
+
+[click here](https://youtu.be/1BjitHYUFV0?si=XfrWYASab-bjU8J2) to watch the video.
+# **3.FLYING THE AIRBLOCK DRONE**
+### OBJECTIVE :
+To learn about and operate the Airblock Drone available in the lab.
+## LEARNING & OUTCOMES :
+- In this task I learnt about the complete details of airblock such as battery ,transmission etc.
+- After the completition of second task I played this game with the airblock .
+- I learnt the controls of the airblock by using **MAKEBLOCK** application.
+- This task really helped me to learn the all the controls .
+  
+### IMAGE OF AIRBLOCK:
+![image alt](https://github.com/sujan935/simulator_sujana/blob/main/airblock.jpg?raw=true)
+
+Airblock have six blade module and one main module. The main module has the battery compartment with it . The six blade module contains six coreless motors in which three are of same kind & other of another same kind .Totally six blade module can be arranged in different manner . For hexacopter drones to fly correctiy motor should me arranged alternatively.
+
+This airblock is controlled by the application **MAKEBLOCK** . To connect the airblock bluetooth is required. The outer body of the airblock is made up of styrofoam,which will not broken easily.
+
+### COMPONENTS OF AIRBLOCK :
+![image alt](https://github.com/sujan935/simulator_sujana/blob/main/component%20drone%20airblock.jpg?raw=true)
+
+### DIFFERENT TRANSMISSION OF AIRBLOCK :
+![image alt](https://github.com/sujan935/simulator_sujana/blob/main/transmission.png?raw=true)
+
+### SPECIFICATIONS/FEATURE OF AIRBLOCK :
+![image alt](https://github.com/sujan935/simulator_sujana/blob/main/specifications.png?raw=true)
+
+[click here](https://github.com/sujan935/simulator_sujana/blob/main/specifications.png?raw=true) to watch the video
+
 
