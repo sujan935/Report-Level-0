@@ -42,3 +42,20 @@ Understand the working of a 3D printer, check out the online resources. Understa
 
   
   **These are the steps to  be follwed to get a perfect 3D model.**
+  # **TASK 2 : API**
+### OBJECTIVE :
+Learn about what is API and using any API of your choice, build a user interface (web app, mobile app, etc.) to make calls and display information.
+
+### OUTCOMES & LEARNING :
+API stands for Application Programming Interface(API), which helps the user to interact with the server.
+It accepts the requests from the user and sends it to the server. After processing the data from the server is sent as output to the user using the same API medium.
+
+### What I learnt from API Task :
+- I lernt a bit about  HTML & CSS.
+- I lernt how to run a code in visual studio code by using live server.
+  
+ ## **Image of My Work**
+
+![image alt](https://github.com/sujan935/API_Sujana/blob/main/Screenshot%202025-09-08%20162601.png?raw=true)
+
+### **REFERENCE :**[click here](https://youtu.be/HAVPicZJ9ik?si=pQw2Cb8zWj32R-gW)
