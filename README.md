@@ -59,3 +59,291 @@ It accepts the requests from the user and sends it to the server. After processi
 ![image alt](https://github.com/sujan935/API_Sujana/blob/main/Screenshot%202025-09-08%20162601.png?raw=true)
 
 ### **REFERENCE :**[click here](https://youtu.be/HAVPicZJ9ik?si=pQw2Cb8zWj32R-gW)
+# **TASK 3 : WORKING WITH GITHUB**
+### OBJECTIVE :
+Familiarize yourself with GitHub integrated workflows such as GitHub Actions, Issues, and pull requests. Visit the provided git repository and perform the tasks stated in the README file.
+
+### OUTCOMES & LEARNING :
+GitHub is a platform for hosting and sharing code. It helps developers collaborate, track changes to their code, and manage projects using Git, a version control system. Think of it as a social network for programmers where they can work together on software projects.
+
+### WHAT I Learnt From GITHUB Task :
+- I learnt how to create a account in GITHUB .
+- And after that I learnt how to create a repository.
+- I learnt how to fork a repository .
+  
+ ## **Image of My Work**
+  
+  ![image alt](https://github.com/sujan935/GITHUB_Sujana/blob/main/Screenshot%202025-08-30%20151225.png?raw=true)
+
+  ### **REFERENCE :**   Marvel website
+# **TASK 4 :COMMAND LINE ON UBUNTU**
+### OBJECTIVE:
+Get familiar with the command line on Ubuntu by completing the following subtasks:
+
+- Create a folder named test.
+- cd into that folder.
+- Create a blank file without using any text editor.
+- List the files in that folder.
+- Create 2600 folders in this folder, each named with a format like M90 or B56.
+- Concatenate two text files containing random text and display them on the terminal.
+  
+ ### OUTCOMES & LEARNING :
+ Ubuntu is a free, open-source Linux operating system known for its simplicity and user-friendly interface. It is widely used for desktops, servers, and cloud computing. Ubuntu emphasizes community, security, and regular updates.
+
+### What I learnt from UBUNTU Task :
+- I lernt how to create a folder in linux.
+- I created a blank file without using text editor.
+- And at the end I created 2600 file using the function'touch'.
+
+## **Image of My Work**
+![image alt](https://github.com/sujan935/Ubuntu_Sujana/blob/main/ubutu.jpg?raw=true)
+
+### **REFERENCE** : Mravel Website
+# **TASK 7 : CREATE A PORTPOLIO WEBPAGE**
+### OBJECTIVE:
+Create a website to showcase your portfolio, including information about yourself, interests, projects, and social media profiles. Ensure the site is responsive and pushed to a git repository. Use any CSS framework of your choice.
+
+ ### OUTCOMES & LEARNING :
+ A **webpage portfolio** is a personal website that displays our work and skills.
+It helps showcase projects to potential clients or employers.
+Common sections include About Me, Projects, and Contact Info.
+
+### What I learnt from UBUNTU Task :
+- I learnt how to create a webpage using HTML & CSS.
+- With the help of resources from online I made my portpolio very attractive.
+  
+## **Image of My Work**
+![image alt](https://github.com/sujan935/webpage_sujana/blob/main/webpage%20photo.png?raw=true)
+![image alt](https://github.com/sujan935/webpage_sujana/blob/main/webpage%20photo2%20.png?raw=true)
+
+## **REFERENCE**: Online Resource
+# **TASK 8 : WRITING RESOURCE ARTICLE USING MARKDOWN**
+### OBJECTIVE:
+Markdown is a markup language used to format plain text. Write a technical resource article on a particular use case or application of UAVs. This article will help you gain technical knowledge and create a framework for future projects.
+
+ ### OUTCOMES & LEARNING :
+ **Markdown** is a lightweight markup language used to format text using plain text syntax.
+It’s commonly used for writing documentation, README files, and web content.
+Markdown can easily convert text to HTML for web display.
+
+### What I learnt from MARKDOWN Task :
+- I learnt how to write a report in markdown with the help of markdown extension using vs code.
+  
+#### **BELOW IS MY DETAILED TECHNICAL REPORT ON BRAHMOS MISSILE**
+
+# Name of the article: BrahMos Missile
+## Introdution About BrahMos Missile :
+ The BRAHMOS is a joint Indo -Russian supersonic cruise missile system known for its high speed (Mach 2.8-3.5), universal deployment on land, sea, air, and submarine platforms, and "fire and forget" capability. It features a two-stage propulsion system, a low radar signature, and high accuracy for precise strikes against static and mobile targets. The missile's design incorporates stealth technology and a multi-platform capability, including BrahMos-NG, a lightweight, smaller version designed for wider deployment.
+ 
+ ## Key Technical Features & Capabilities :
+- ### Speed:
+It achieves supersonic speeds, traveling at Mach 2.8 to Mach 3.5, making it extremely difficult to intercept. 
+
+- ### Range:
+The initial range was around 290 km, but after India's Missile Technology Control Regime (MTCR) membership, the range has been extended to over 450 km, with advanced versions aiming for 800+ km.
+
+- ### Propulsion:
+It uses a two-stage system:
+Stage 1: A solid-propellant booster provides initial acceleration. 
+Stage 2: A liquid-fueled ramjet engine sustains the high-speed flight.
+
+- ### Stealth Design:
+The missile has a small radar cross-section (RCS) due to stealth materials and design, reducing its detectability. 
+
+- ### Guidance System:
+It employs an Inertial Navigation System (INS) for mid-course correction and an active radar seeker for final terminal homing, achieving high accuracy. 
+
+- ### All-Weather Capability:
+The missile is designed to operate effectively in all weather conditions and day/night scenarios.
+
+## Variants & Launch Platforms
+- ### Ship - based :
+ Can be fired vertically or inclined from static and moving naval platforms. 
+- ### Land-based:
+Launched from mobile autonomous launchers, each carrying multiple missiles for simultaneous attacks. 
+- ### Air-launched:
+Carried by India's Sukhoi-30 MKI fighter jets and other platforms like the Tejas LCA. 
+
+- ### Submarine-launched:
+Can be fired from a submerged platform, emerging from the water to strike targets.
+## Images of BRAHMOS Missile :
+![image alt](https://github.com/sujan935/Markdown-Sujana/blob/main/brahmos%20missle.jpeg?raw=true)
+
+![image alt](https://github.com/sujan935/Markdown-Sujana/blob/main/brahmos%20real%20picture.jpeg?raw=true)
+## This is the briefy report of BRAHMOS missile.
+
+### REFERENCE : Google Websites 
+# **TASK 9 : TINKERCAD**
+### OBJECTIVE:
+Create a Tinkercad account and familiarize yourself with the application. Simulate a simple circuit using an ultrasonic sensor to estimate the distance between an obstacle and the sensor, and display the results on the serial monitor. Create a radar system using an ultrasonic sensor and servo motor to detect objects within a certain range.
+
+ ### OUTCOMES & LEARNING :
+ #### INTRO ABOUT TINKERCAD :
+ Tinkercad is a free, easy-to-use online platform for creating 3D designs, simulating electronic circuits, and exploring visual coding, making it ideal for beginners in design, electronics, and coding.
+
+ ### What I learnt from TINKERCAD Task :
+ - I learnt how to build a circuit in tinkercad.
+ - And also I learnt how to simulate the circuit.
+
+ ## CIRCUIT CONNECTOINS  :
+ ![image alt](https://github.com/sujan935/Tinkercad_Sujana/blob/main/ultrasonic,.png?raw=true)
+  
+ ### **Working principle of ultrasonic sensor :**
+ The sensor first emits a short burst of ultrasonic waves using a transmitter (often a piezoelectric crystal).
+
+These waves travel through the air until they encounter an object, at which point they are reflected back toward the sensor.
+
+A receiver (sometimes the same transducer as the transmitter) detects the reflected echo.
+
+The sensor then calculates the time taken for the emitted wave to return after hitting an object, known as the "time-of-flight".
+
+Using the known speed of sound in air, the distance to the object is calculated with the formula:
+
+Distance=(Time
+×
+Speed of Sound)/2
+ 
+The division by 2 accounts for the round-trip (outgoing and incoming) journey of the sound wave .
+
+![image alt](https://github.com/sujan935/Tinkercad_Sujana/blob/main/ultra%20sonic.webp?raw=true)
+
+ ### **Working principle of servo motor :**
+-  The servo receives a command signal, usually in the form of Pulse Width Modulation (PWM), indicating the desired position for the output shaft.
+
+- The internal control circuit compares this command signal with feedback from a position sensor, often a potentiometer or encoder attached to the shaft.
+
+- If there is a difference (error) between the actual and desired shaft positions, the control circuit generates an error signal that drives the motor to correct the shaft’s movement.
+
+- As the motor rotates, the feedback sensor continually updates the control circuit with the new position, maintaining accuracy until the desired position is reached and the error is zero.
+  
+![image alt](https://github.com/sujan935/Tinkercad_Sujana/blob/main/servo%20motor.webp?raw=true)
+### **REFERENCE** : Online Website
+# **TASK 10: Speed Control of DC Motor**
+### OBJECTIVE :
+Explore basic techniques for controlling DC motors, understand the control DC motors using the L298N motor driver and the Arduino board. Using an UNO and H-Bridge L298N motor driver, control the speed of a 5V BO motor, try simulating this on tinkercad and then perform it on the hardware, Record videos of you doing the same.
+
+### Outcomes and Learnings
+- I learnt how to control the speed of the DC motor. 
+- I learnt working principle of L298N motor driver.
+- I learnt concept of H-Bridge and PWM(Pulse Width Modulator)
+  
+### **Theory Behind L298N Motor Driver**
+
+Understanding Motor Control Basics
+before learning about the L298N motor driver, it’s important to understand two key concepts:
+
+- H-Bridge circuit – allows us to control the direction of the motor’s rotation.
+- PWM (Pulse Width Modulation) – helps control the speed of a DC motor.
+### Controlling Direction with an H-Bridge :
+DC motors are the easiest motors to use! If you connect a battery to a DC motor, it will spin in one direction. If you swap the wires, it spins in the other direction. But you can’t always physically swap the wires every time you want to change direction. That’s where an H-bridge comes in handy!
+An H-bridge is a special circuit with four electronic switches arranged in an “H” shape, with the motor in the middle.
+
+By turning these switches on and off in a specific order, you can make electricity flow through the motor in one direction or the opposite direction. This clever trick lets you control which way the motor spins without having to physically reverse any wires.
+
+The animation below shows how an H-bridge works.
+
+![image alt](https://github.com/sujan935/speed_sujana/blob/main/H-Bridge-Working-Motor-Direction-Control-Animation.gif?raw=true) 
+
+### Controlling Speed with PWM (Pulse Width Modulation)
+When a fixed voltage is given to a DC motor, it spins at a fixed speed. If you want to change the speed, you need to adjust the voltage. A higher voltage makes the motor spin faster, while a lower voltage makes it slower.
+
+However, physically changing the voltage all the time isn’t very practical. That’s where PWM, or Pulse Width Modulation, comes in.
+
+PWM is a smart way to control the average amount of power sent to the motor. Instead of sending a fixed voltage, PWM rapidly turns the voltage ON and OFF in very quick pulses.
+The “width” of each ON pulse, also called the duty cycle, determines how long the voltage is “ON” during each cycle.
+
+If the voltage is ON for most of the time (a wider pulse), the motor receives a higher average voltage and spins faster.
+If the voltage is OFF for most of the time (a narrower pulse), the motor receives a lower average voltage and spins slower.
+The image below shows how different duty cycles affect motor speed.
+
+![image alt](https://github.com/sujan935/speed_sujana/blob/main/Pulse-Width-Modulation-PWM-Technique-with-Duty-Cycles.png?raw=true)  
+
+### Pins in L298N Motor Driver :
+
+  ![image alt](https://github.com/sujan935/speed_sujana/blob/main/L298N-Motor-Driver-Module-Pinout.webp?raw=true)  
+
+### **CIRCUIT CONNECTION** :
+
+![image alt](https://github.com/sujan935/speed_sujana/blob/main/Wiring-L298N-Motor-Driver-Module-with-DC-TT-motors-and-Arduino-UNO.webp?raw=true) 
+
+ [click here](https://youtube.com/shorts/oa2tgIEjD6g?si=8zxYxPXoynk-W21A_) to watch the video
+ # **TASK 11: LED TOGGLE USING ESP32**
+### OBJECTIVE :
+Learn how to use an ESP32 to create a standalone web server that controls an LED connected to the ESP32 GPIOs. Use the Arduino IDE to code and upload the program to the ESP32.
+### OUTCOMES & LEARNING :
+Toggling an LED using an ESP32 means turning it on and off repeatedly by controlling a digital GPIO pin. In the code, the GPIO pin connected to the LED is set as an output, and its state is changed between HIGH and LOW. This switching creates a blinking effect, and is commonly done using a delay between each toggle in the loop.
+
+ ### What I learnt from TOGGLE Task :
+ - I learnt the working principle of ESP32.
+ - I learnt the circuit connection of breadboard.
+  
+  ### Components Required For this Task:
+  ![image alt](https://github.com/sujan935/LED-Toggle_Sujana/blob/main/toggle2,html.png?raw=true)
+
+  ### **CIRUIT CONNECTION :**
+  ![image alt](https://github.com/sujan935/LED-Toggle_Sujana/blob/main/toggle.png?raw=true)
+
+
+[click here](https://youtube.com/shorts/GsJd_s3LEgA?si=QoC2dzkFno_dBAgg) to watch the video of this task.
+# **TASK 12 : SOLDERING**
+### OBJECTIVE:
+Learn about soldering equipment such as solder, soldering iron, soldering wick, and flux. Perform basic soldering on a perf board, such as a simple LED circuit.
+
+### OUTCOMES & LEARNING :
+- It was my second experience with soldering ,before doing the task I red the theory behind soldering. 
+- I learnt how to solder and de-solder the led from the PCB using the soldering gun.
+  
+## **Images of My Work**
+![image alt](https://github.com/sujan935/soldering_sujana/blob/main/WhatsApp%20Image%202025-09-02%20at%2010.30.34_f486f89f.jpg?raw=true)![image alt](https://github.com/sujan935/soldering_sujana/blob/main/WhatsApp%20Image%202025-09-02%20at%2010.30.34_80da572d.jpg?raw=true)
+# **Task 13: Design a 555 Astable Multivibrator**
+### OBJECTIVE :
+Design a 555 astable multivibrator with a duty cycle of 60%. Assemble the circuit on a breadboard and observe the output on a Digital Storage Oscilloscope (DSO).
+## LEARNING & OUTCOMES :
+### Components Required For this Task:
+| 🔢 **Label** | 🔧 **Component**           | 🔢 **Quantity** |
+| ------------ | -------------------------- | --------------- |
+| 1. U1        | 555 Timer IC               | 1               |
+| 2. C1        | 0.01 µF Capacitor          | 1               |
+| 3. C2        | 0.01 µF Capacitor          | 1               |
+| 4. R1        | 10 kΩ Resistor             | 1               |
+| 5. R2        | 20 kΩ Resistor (10k + 10k) | 1               |
+| 6. V1         | VRPS – 5V Power Supply     | 1               |
+
+And we need a digital storage oscilloscope(DSO)to get the duty cycle.
+
+### **CIRCUIT CONNETIONS ON THE BREADBOARD :**
+![image alt](https://github.com/sujan935/555-timer_sujana/blob/main/Screenshot%202025-09-10%20210138.png?raw=true)
+
+ ### What I learnt from 555 TIMER Task :
+ - I got the information about 555 timer by reading the article in the website.
+ - I learnt to operate the DSO.
+ - I got the knowledge of duty cycle which is helping me in the coming semesters.
+ - I learnt the circuit connection of 555 timer.
+  
+  I performed this task in the marvel lab and I got duty cycle of **59.85**.
+
+  ![image alt](https://github.com/sujan935/555-timer_sujana/blob/main/WhatsApp%20Image%202025-09-10%20at%2021.13.45_ef69dfdc.jpg?raw=true)
+
+  [click here](https://youtu.be/2mNaawYyWAI?si=eWJliH5RJSQpzNPw) to watch the video
+  # **TASK 14 : ACTIVE PARTICIPATION**
+### OBJECTIVE:
+Participate in any technical event, inter-college or intra-college, and submit the issued certificate of participation. Enroll in and complete a MOOC course.
+### **My HACK_A_MAZE CERTIFICATE :**
+
+![image alt](https://github.com/sujan935/active_sujana/blob/main/active%20participation.jpg?raw=true)
+
+I participated in Hack-A-Maze competition conducted by IEE UVCE on the vocation of IMPETUS 25. I got the knowledge about  coding and I enjoyed the competition.
+# **Task 15: INTRODUTION TO VR**
+### OBJECTIVE : 
+Familiarise yourself with what Virtual Reality is. Make a detailed study about what's the difference between VR and AR. Mention about the trends in the space and technology stack being developed. Make about Indian companies in this space. Make the report with detail.
+
+## LEARNING & OUTCOMES :
+- In this task I learnt about what virtual reality is .
+- I played the task with the help of joystick.
+  
+- The main difference I observed b\w AR & VR is VR creates a different world in which we can run ,jump,play games etc.
+
+There are so many companies in INDIA are in this field such as tata elxsi, simbott etc.
+
+![image ait](https://github.com/sujan935/Data-sheet_Sujana/blob/main/vr.webp?raw=true)
+
