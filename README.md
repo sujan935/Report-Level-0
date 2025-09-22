@@ -338,7 +338,7 @@ Learn about soldering equipment such as solder, soldering iron, soldering wick, 
   
 ## **Images of My Work**
 ![image alt](https://github.com/sujan935/soldering_sujana/blob/main/WhatsApp%20Image%202025-09-02%20at%2010.30.34_f486f89f.jpg?raw=true)![image alt](https://github.com/sujan935/soldering_sujana/blob/main/WhatsApp%20Image%202025-09-02%20at%2010.30.34_80da572d.jpg?raw=true)
-# **Task 13 : Design a 555 Astable Multivibrator**
+# **Task 13 : DESIGN A 555 ASTABLE MULTIVIBRATOR**
 ### OBJECTIVE :
 Design a 555 astable multivibrator with a duty cycle of 60%. Assemble the circuit on a breadboard and observe the output on a Digital Storage Oscilloscope (DSO).
 ## LEARNING & OUTCOMES :
