@@ -260,7 +260,7 @@ The division by 2 accounts for the round-trip (outgoing and incoming) journey of
   
 ![image alt](https://github.com/sujan935/Tinkercad_Sujana/blob/main/servo%20motor.webp?raw=true)
 ### **REFERENCE** : Online Website
-# **TASK 10: Speed Control of DC Motor**
+# **TASK 10: SPEED CONTROL OF DC MOTOR**
 ### OBJECTIVE :
 Explore basic techniques for controlling DC motors, understand the control DC motors using the L298N motor driver and the Arduino board. Using an UNO and H-Bridge L298N motor driver, control the speed of a 5V BO motor, try simulating this on tinkercad and then perform it on the hardware, Record videos of you doing the same.
 
