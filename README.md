@@ -98,8 +98,50 @@ Get familiar with the command line on Ubuntu by completing the following subtask
 ## **Image of My Work**
 ![image alt](https://github.com/sujan935/Ubuntu_Sujana/blob/main/ubutu.jpg?raw=true)
 
+# **TASK 5 : BUILD YOUR OWN BRAIN-LINEAR REGRESSION FROM SCRATCH**
+
+### OBJECTIVE:
+ Dive into the core of machine learning by implementing Linear Regression from scratch using , and compare its performance with the scikit-learn implementation. Use the California Housing dataset to evaluate your model on real-world data.
+
+ ### OUTCOMES & LEARNING :
+ **Gradient descent** is an optimization algorithm used to minimize the error (loss) in linear regression by updating the model’s weights and bias. It does this by computing the gradient (slope) of the loss function and adjusting the parameters in the direction that reduces the error. Repeating this process iteratively helps the model learn the best-fit line for the data.
+
+### What I learnt from linear regression Task :
+-  In this task I learnt about the linear regression .
+-  I learnt how to make the graph using jupyter notebook.
+-  By using this I bulid a graph of median _income v\s housing median age.
+  
+ ## **Image of My Work**
+![image alt](https://github.com/sujan935/linear-_sujana/blob/main/linear%20regression.jpg?raw=true)
+
+
+![image alt](https://github.com/sujan935/linear-_sujana/blob/main/linera%20regression2.jpg?raw=true)
 ### **REFERENCE** : Mravel Website
-# **TASK 5 : CREATE A PORTPOLIO WEBPAGE**
+
+# **TASK 6: THE MATRIX PUZZLE — DECODE WITH NUMPY & REVEAL THE IMAGE**
+### OBJECTIVE:
+Get hands-on with NumPy and Matplotlib by solving a visual puzzle. You’ll be given a scrambled matrix, and your mission is to decode it into a hidden image using NumPy operations and visualization techniques.
+
+### OUTCOMES & LEARNING :
+NumPy is a Python library for efficient numerical computing with powerful multi-dimensional arrays called ndarrays. It provides fast mathematical functions and tools for handling large datasets. NumPy is essential for scientific computing and forms the base of many machine learning libraries.
+
+### What I learnt from NUMPY task :
+- In this task I learnt about numpy.
+- I solved scarmbled matrix which was given in the marvel website.
+- I learnt how to write code in jupyter notebook .
+- I learnt about matplotlib.
+- First I revealed the image using some code and then found the mistake . In the code it was given 200*50 ,I changed it to 100*100.
+- After the change I got the corrected picture
+- And also I rotaed the image to 90',180'& 270'.
+
+## **Image of My Work**
+
+#### **First revealed image**
+![image alt](https://github.com/sujan935/linear-_sujana/blob/main/WhatsApp%20Image%202025-09-16%20at%2017.26.25_f34d0835.jpg?raw=true)
+
+#### **Final corrected image**
+![image alt](https://github.com/sujan935/linear-_sujana/blob/main/WhatsApp%20Image%202025-09-16%20at%2017.26.51_e5f417cb.jpg?raw=true)
+# **TASK 7 : CREATE A PORTPOLIO WEBPAGE**
 ### OBJECTIVE:
 Create a website to showcase your portfolio, including information about yourself, interests, projects, and social media profiles. Ensure the site is responsive and pushed to a git repository. Use any CSS framework of your choice.
 
@@ -108,7 +150,7 @@ Create a website to showcase your portfolio, including information about yoursel
 It helps showcase projects to potential clients or employers.
 Common sections include About Me, Projects, and Contact Info.
 
-### What I learnt from UBUNTU Task :
+### What I learnt from WEBPAGE PORTPOLIO Task :
 - I learnt how to create a webpage using HTML & CSS.
 - With the help of resources from online I made my portpolio very attractive.
   
@@ -117,7 +159,7 @@ Common sections include About Me, Projects, and Contact Info.
 ![image alt](https://github.com/sujan935/webpage_sujana/blob/main/webpage%20photo2%20.png?raw=true)
 
 ## **REFERENCE**: Online Resource
-# **TASK 6 : WRITING RESOURCE ARTICLE USING MARKDOWN**
+# **TASK 8 : WRITING RESOURCE ARTICLE USING MARKDOWN**
 ### OBJECTIVE:
 Markdown is a markup language used to format plain text. Write a technical resource article on a particular use case or application of UAVs. This article will help you gain technical knowledge and create a framework for future projects.
 
@@ -173,7 +215,7 @@ Can be fired from a submerged platform, emerging from the water to strike targ
 ## This is the briefy report of BRAHMOS missile.
 
 ### REFERENCE : Google Websites 
-# **TASK 7 : TINKERCAD**
+# **TASK 9 : TINKERCAD**
 ### OBJECTIVE:
 Create a Tinkercad account and familiarize yourself with the application. Simulate a simple circuit using an ultrasonic sensor to estimate the distance between an obstacle and the sensor, and display the results on the serial monitor. Create a radar system using an ultrasonic sensor and servo motor to detect objects within a certain range.
 
@@ -218,7 +260,7 @@ The division by 2 accounts for the round-trip (outgoing and incoming) journey of
   
 ![image alt](https://github.com/sujan935/Tinkercad_Sujana/blob/main/servo%20motor.webp?raw=true)
 ### **REFERENCE** : Online Website
-# **TASK 8: Speed Control of DC Motor**
+# **TASK 10: Speed Control of DC Motor**
 ### OBJECTIVE :
 Explore basic techniques for controlling DC motors, understand the control DC motors using the L298N motor driver and the Arduino board. Using an UNO and H-Bridge L298N motor driver, control the speed of a 5V BO motor, try simulating this on tinkercad and then perform it on the hardware, Record videos of you doing the same.
 
@@ -268,7 +310,7 @@ The image below shows how different duty cycles affect motor speed.
 ![image alt](https://github.com/sujan935/speed_sujana/blob/main/Wiring-L298N-Motor-Driver-Module-with-DC-TT-motors-and-Arduino-UNO.webp?raw=true) 
 
  [click here](https://youtube.com/shorts/oa2tgIEjD6g?si=8zxYxPXoynk-W21A_) to watch the video
- # **TASK 9 : LED TOGGLE USING ESP32**
+ # **TASK 11 : LED TOGGLE USING ESP32**
 ### OBJECTIVE :
 Learn how to use an ESP32 to create a standalone web server that controls an LED connected to the ESP32 GPIOs. Use the Arduino IDE to code and upload the program to the ESP32.
 ### OUTCOMES & LEARNING :
@@ -286,7 +328,7 @@ Toggling an LED using an ESP32 means turning it on and off repeatedly by control
 
 
 [click here](https://youtube.com/shorts/GsJd_s3LEgA?si=QoC2dzkFno_dBAgg) to watch the video of this task.
-# **TASK 10 : SOLDERING**
+# **TASK 12 : SOLDERING**
 ### OBJECTIVE:
 Learn about soldering equipment such as solder, soldering iron, soldering wick, and flux. Perform basic soldering on a perf board, such as a simple LED circuit.
 
@@ -296,7 +338,7 @@ Learn about soldering equipment such as solder, soldering iron, soldering wick, 
   
 ## **Images of My Work**
 ![image alt](https://github.com/sujan935/soldering_sujana/blob/main/WhatsApp%20Image%202025-09-02%20at%2010.30.34_f486f89f.jpg?raw=true)![image alt](https://github.com/sujan935/soldering_sujana/blob/main/WhatsApp%20Image%202025-09-02%20at%2010.30.34_80da572d.jpg?raw=true)
-# **Task 11 : Design a 555 Astable Multivibrator**
+# **Task 13 : Design a 555 Astable Multivibrator**
 ### OBJECTIVE :
 Design a 555 astable multivibrator with a duty cycle of 60%. Assemble the circuit on a breadboard and observe the output on a Digital Storage Oscilloscope (DSO).
 ## LEARNING & OUTCOMES :
@@ -326,7 +368,7 @@ And we need a digital storage oscilloscope(DSO)to get the duty cycle.
   ![image alt](https://github.com/sujan935/555-timer_sujana/blob/main/WhatsApp%20Image%202025-09-10%20at%2021.13.45_ef69dfdc.jpg?raw=true)
 
   [click here](https://youtu.be/2mNaawYyWAI?si=eWJliH5RJSQpzNPw) to watch the video
-  # **TASK 12 : ACTIVE PARTICIPATION**
+  # **TASK 14 : ACTIVE PARTICIPATION**
 ### OBJECTIVE:
 Participate in any technical event, inter-college or intra-college, and submit the issued certificate of participation. Enroll in and complete a MOOC course.
 ### **My HACK_A_MAZE CERTIFICATE :**
@@ -334,7 +376,7 @@ Participate in any technical event, inter-college or intra-college, and submit t
 ![image alt](https://github.com/sujan935/active_sujana/blob/main/active%20participation.jpg?raw=true)
 
 I participated in Hack-A-Maze competition conducted by IEE UVCE on the vocation of IMPETUS 25. I got the knowledge about  coding and I enjoyed the competition.
-# **Task 13 : INTRODUTION TO VR**
+# **Task 15 : INTRODUTION TO VR**
 ### OBJECTIVE : 
 Familiarise yourself with what Virtual Reality is. Make a detailed study about what's the difference between VR and AR. Mention about the trends in the space and technology stack being developed. Make about Indian companies in this space. Make the report with detail.
 
@@ -410,5 +452,6 @@ This airblock is controlled by the application **MAKEBLOCK** . To connect the ai
 ![image alt](https://github.com/sujan935/simulator_sujana/blob/main/specifications.png?raw=true)
 
 [click here](https://github.com/sujan935/simulator_sujana/blob/main/specifications.png?raw=true) to watch the video
+# **THANK YOU**
 
 
