@@ -453,5 +453,89 @@ This airblock is controlled by the application **MAKEBLOCK** . To connect the ai
 
 [click here](https://github.com/sujan935/simulator_sujana/blob/main/specifications.png?raw=true) to watch the video
 # **THANK YOU**
+# **TASK 1 : UNDERSTAND ABOUT ESC**
+### **OBJECTIVE :** 
+- To control the speed of a BLDC motor using Arduino UNO, ESC, and a potentiometer.
+- Control the speed of a BLDC motor using an Electronic Speed Controller (ESC), Arduino UNO, and a potentiometer.
+- Understand the concept of ESC calibration and its significance.
+
+### **OUTCOMES & LEARNINGS :**
+- In this task I learnt about the principle of BLDC motor .
+- With the help of reference document I learnt the detais of BLDC motor .
+- And by usimg **RPM = (Motor KV * the supplied voltage )** I calculated the RPM of given motor .
+- I used 1400KV BLDC motor ,ESC , Voltmeter , potentiometer and arudino uno to control the speed of the motor.
+- With the help of reference video I learnt about the ESC calibration.
+- At the end by doing the connections I controlled the speed .
+  
+ ### **WORKING PRINCIPLE OF BLDC MOTOR :**
+ - The working principle of a BLDC motor (Brushless DC motor) is based on the Lorentz force law, which states that a current-carrying conductor in a magnetic field experiences a force.
+- A BLDC motor consists of two main parts: the rotor, which has permanent magnets, and the stator, which contains windings. 
+
+ ### **Image of BLDC Motor :**
+ - BLDC motor are type of motor which does not contains  carbon brush.
+ - In this task I used 1400KV motor which give RPM of 15,540 when 3S battery is used.
+   
+ ![ image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/bldc%20motor%201.png?raw=true)
+
+ ### **Specifications of ESC :**
+
+- Electronic Speed Controller (ESC) it is used to control the speed of  the motor .
+- It can resist the current upto 30A  & it has three phase wires which are directly connected to the motor phase wires.
+- And also ESC contains signal wire which is connected to the arudino (D9) pin , 5V & GND to Arudino's  5V & and GND respectively.
+  
+ ![ image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/bldc%20motor%203.png?raw=true)
+
+ ### **PWM Signal Chart :**
+
+ - Arudino sends PWM signal to the ESC . ESC interprets that signal and provides three- phase AC power to the BLDC motor.
+ - The width of the PWM decides the how fast motor spins.
+ - If the width is 1ms that is minimum. Motor will rotates slow due to low current supplied by the ESC .
+ - If the width is 1.5ms that is medium.Motor will rotates with medium RPM.
+ -If the width is 2ms that is maximum.Motor will rotates with high RPM. 
+
+ ![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/bldc%20motor%204.png?raw=true)
+
+ ### **Circuit Connection :**
+ - This is the actual circuit connection of speed control.
+  
+ ![ image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/circuit%20bldc.png?raw=true)
+ 
+ ### **Arudino Program :**
+ - This is the program which I uploaded in the **Arudino IDE** app.
+  
+ ![ image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/program%20bldc.png?raw=true)
+
+### **Calibration Graph & Procedure of Calibration:**
+BLDC Motor Calibration Procedure Steps:
+
+1. Connect the BLDC motor to the ESC and power supply.
+
+
+2. Turn on the transmitter and set the throttle to maximum.
+
+
+3. Power on the ESC (connect the battery).
+
+
+4. Wait for the calibration tone or LED indication.
+
+
+5. Move the throttle to minimum position.
+
+
+6. Wait for confirmation tones indicating calibration complete.
+
+
+7. Power off the ESC and transmitter.
+
+
+8. Power on again and test motor rotation and throttle response.
+ 
+
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/calibration%20bldc.png?raw=true)
+
+
+
+[click here](https://youtu.be/4AhlNFClxGQ?feature=shared) to watch task video done by me. 
 
 
