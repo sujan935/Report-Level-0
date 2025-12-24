@@ -261,22 +261,22 @@ The division by 2 accounts for the round-trip (outgoing and incoming) journey of
 ![image alt](https://github.com/sujan935/Tinkercad_Sujana/blob/main/servo%20motor.webp?raw=true)
 ### **REFERENCE** : Online Website
 # **TASK 10: SPEED CONTROL OF DC MOTOR**
-### OBJECTIVE :
+#### **OBJECTIVE :**
 Explore basic techniques for controlling DC motors, understand the control DC motors using the L298N motor driver and the Arduino board. Using an UNO and H-Bridge L298N motor driver, control the speed of a 5V BO motor, try simulating this on tinkercad and then perform it on the hardware, Record videos of you doing the same.
 
-### Outcomes and Learnings
+#### **Outcomes and Learnings :**
 - I learnt how to control the speed of the DC motor. 
 - I learnt working principle of L298N motor driver.
 - I learnt concept of H-Bridge and PWM(Pulse Width Modulator)
   
-### **Theory Behind L298N Motor Driver**
+#### **Theory Behind L298N Motor Driver :**
 
 Understanding Motor Control Basics
 before learning about the L298N motor driver, it’s important to understand two key concepts:
 
 - H-Bridge circuit – allows us to control the direction of the motor’s rotation.
 - PWM (Pulse Width Modulation) – helps control the speed of a DC motor.
-### Controlling Direction with an H-Bridge :
+#### **Controlling Direction with an H-Bridge :**
 DC motors are the easiest motors to use! If you connect a battery to a DC motor, it will spin in one direction. If you swap the wires, it spins in the other direction. But you can’t always physically swap the wires every time you want to change direction. That’s where an H-bridge comes in handy!
 An H-bridge is a special circuit with four electronic switches arranged in an “H” shape, with the motor in the middle.
 
@@ -287,7 +287,7 @@ The animation below shows how an H-bridge works :
 
 ![image alt](https://github.com/sujan935/speed_sujana/blob/main/H-Bridge-Working-Motor-Direction-Control-Animation.gif?raw=true) 
 
-### Controlling Speed with PWM (Pulse Width Modulation)
+#### **Controlling Speed with PWM (Pulse Width Modulation):**
 When a fixed voltage is given to a DC motor, it spins at a fixed speed. If you want to change the speed, you need to adjust the voltage. A higher voltage makes the motor spin faster, while a lower voltage makes it slower.
 
 However, physically changing the voltage all the time isn’t very practical. That’s where PWM, or Pulse Width Modulation, comes in.
@@ -301,48 +301,48 @@ The image below shows how different duty cycles affect motor speed.
 
 ![image alt](https://github.com/sujan935/speed_sujana/blob/main/Pulse-Width-Modulation-PWM-Technique-with-Duty-Cycles.png?raw=true)  
 
-### Pins in L298N Motor Driver :
+#### **Pins in L298N Motor Driver :**
 
   ![image alt](https://github.com/sujan935/speed_sujana/blob/main/L298N-Motor-Driver-Module-Pinout.webp?raw=true)  
 
-### **CIRCUIT CONNECTION** :
+#### **CIRCUIT CONNECTION :**
 
 ![image alt](https://github.com/sujan935/speed_sujana/blob/main/Wiring-L298N-Motor-Driver-Module-with-DC-TT-motors-and-Arduino-UNO.webp?raw=true) 
 
  [click here](https://youtube.com/shorts/oa2tgIEjD6g?si=8zxYxPXoynk-W21A_) to watch the video
  # **TASK 11 : LED TOGGLE USING ESP32**
-### OBJECTIVE :
+#### **OBJECTIVE :**
 Learn how to use an ESP32 to create a standalone web server that controls an LED connected to the ESP32 GPIOs. Use the Arduino IDE to code and upload the program to the ESP32.
-### OUTCOMES & LEARNING :
+#### **OUTCOMES & LEARNING :**
 Toggling an LED using an ESP32 means turning it on and off repeatedly by controlling a digital GPIO pin. In the code, the GPIO pin connected to the LED is set as an output, and its state is changed between HIGH and LOW. This switching creates a blinking effect, and is commonly done using a delay between each toggle in the loop.
 
- ### What I learnt from TOGGLE Task :
+ #### **What I learnt from TOGGLE Task :**
  - I learnt the working principle of ESP32.
  - I learnt the circuit connection of breadboard.
   
-  ### Components Required For this Task:
+  #### **Components Required For this Task:**
   ![image alt](https://github.com/sujan935/LED-Toggle_Sujana/blob/main/toggle2,html.png?raw=true)
 
-  ### **CIRUIT CONNECTION :**
+  #### **CIRUIT CONNECTION :**
   ![image alt](https://github.com/sujan935/LED-Toggle_Sujana/blob/main/toggle.png?raw=true)
 
 
 [click here](https://youtube.com/shorts/GsJd_s3LEgA?si=QoC2dzkFno_dBAgg) to watch the video of this task.
 # **TASK 12 : SOLDERING**
-### OBJECTIVE:
+#### **OBJECTIVE:**
 Learn about soldering equipment such as solder, soldering iron, soldering wick, and flux. Perform basic soldering on a perf board, such as a simple LED circuit.
 
-### OUTCOMES & LEARNING :
+#### **OUTCOMES & LEARNING :**
 - It was my second experience with soldering ,before doing the task I red the theory behind soldering. 
 - I learnt how to solder and de-solder the led from the PCB using the soldering gun.
   
-## **Images of My Work**
+#### **Images of My Work**
 ![image alt](https://github.com/sujan935/soldering_sujana/blob/main/WhatsApp%20Image%202025-09-02%20at%2010.30.34_f486f89f.jpg?raw=true)![image alt](https://github.com/sujan935/soldering_sujana/blob/main/WhatsApp%20Image%202025-09-02%20at%2010.30.34_80da572d.jpg?raw=true)
 # **Task 13 : DESIGN A 555 ASTABLE MULTIVIBRATOR**
-### OBJECTIVE :
+#### **OBJECTIVE :**
 Design a 555 astable multivibrator with a duty cycle of 60%. Assemble the circuit on a breadboard and observe the output on a Digital Storage Oscilloscope (DSO).
-## LEARNING & OUTCOMES :
-### Components Required For this Task:
+#### **LEARNING & OUTCOMES :**
+#### **Components Required For this Task:**
 | 🔢 **Label** | 🔧 **Component**           | 🔢 **Quantity** |
 | ------------ | -------------------------- | --------------- |
 | 1. U1        | 555 Timer IC               | 1               |
@@ -354,10 +354,10 @@ Design a 555 astable multivibrator with a duty cycle of 60%. Assemble the circui
 
 And we need a digital storage oscilloscope(DSO)to get the duty cycle.
 
-### **CIRCUIT CONNETIONS ON THE BREADBOARD :**
+#### **CIRCUIT CONNETIONS ON THE BREADBOARD :**
 ![image alt](https://github.com/sujan935/555-timer_sujana/blob/main/Screenshot%202025-09-10%20210138.png?raw=true)
 
- ### What I learnt from 555 TIMER Task :
+ #### **What I learnt from 555 TIMER Task :**
  - I got the information about 555 timer by reading the article in the website.
  - I learnt to operate the DSO.
  - I got the knowledge of duty cycle which is helping me in the coming semesters.
@@ -369,18 +369,18 @@ And we need a digital storage oscilloscope(DSO)to get the duty cycle.
 
   [click here](https://youtu.be/2mNaawYyWAI?si=eWJliH5RJSQpzNPw) to watch the video
   # **TASK 14 : ACTIVE PARTICIPATION**
-### OBJECTIVE:
+#### **OBJECTIVE:**
 Participate in any technical event, inter-college or intra-college, and submit the issued certificate of participation. Enroll in and complete a MOOC course.
-### **My HACK_A_MAZE CERTIFICATE :**
+#### **My HACK_A_MAZE CERTIFICATE :**
 
 ![image alt](https://github.com/sujan935/active_sujana/blob/main/active%20participation.jpg?raw=true)
 
 I participated in Hack-A-Maze competition conducted by IEE UVCE on the vocation of IMPETUS 25. I got the knowledge about  coding and I enjoyed the competition.
 # **Task 15 : INTRODUTION TO VR**
-### OBJECTIVE : 
+#### **OBJECTIVE :** 
 Familiarise yourself with what Virtual Reality is. Make a detailed study about what's the difference between VR and AR. Mention about the trends in the space and technology stack being developed. Make about Indian companies in this space. Make the report with detail.
 
-## LEARNING & OUTCOMES :
+#### **LEARNING & OUTCOMES :**
 - In this task I learnt about what virtual reality is .
 - I played the task with the help of joystick.
 - The main difference I observed b\w AR & VR is VR creates a different world in which we can run ,jump,play games etc.
@@ -390,23 +390,23 @@ There are so many companies in INDIA are in this field such as tata elxsi, simbo
 ![image ait](https://github.com/sujan935/Data-sheet_Sujana/blob/main/vr.webp?raw=true)
 # **DOMAIN SPECIFIC TASK**
 # **1.History of Aviation**
-### OBJECTIVE: 
+#### **OBJECTIVE:** 
 To learn about the history of Aviation & Drones.
-### OUTCOMES & LEARNING :
+#### **OUTCOMES & LEARNING :**
   - Aviation is not a new domain or sector it has a long history from  Pre-20th century to now.
   - Humans were tried many ways to succeed in this task but some are won and some are failed.
   - Now also reserach are going on in this sector.
   - Now so many countries are using advanced technology in their missile ,aircraft etc.
    This is the development in the aviation sector.
   
-  ### **Below is the detailed flowchart about history of aviation :**
+  #### **Below is the detailed flowchart about history of aviation :**
 
 ![image alt](https://github.com/sujan935/Aviation-_-history_Sujana/blob/main/AVIATION%20HISTORY%20FLOWCHART.PNG?raw=true)
 # **2.INTRODUTION TO FLIGHT SIMULATORS**
-## OBJECTIVE: 
+#### **OBJECTIVE:** 
 To learn manual controls, stability handling, and motor mixing using a drone simulator.
 
-## LEARNING & OUTCOMES :
+#### **LEARNING & OUTCOMES :**
 - It was my first experience with the RDS simulation.
 - In this task I learnt about how to operate the drone using the joystick.
 - With the help of coordinator I played the game in angle mode.
@@ -414,7 +414,7 @@ To learn manual controls, stability handling, and motor mixing using a drone sim
 - In this task I learnt about yaw, throttle, pitch, roll & other channels in the drones.
 - This task helped me to learn the concept of drones.
   
- ### **Below is the Image of Motion of Drone and its Control**
+ #### **Below is the Image of Motion of Drone and its Control**
 ![image alt](https://github.com/sujan935/simulator_sujana/blob/main/simulator.jpg?raw=true)
 
 **Throttle of the drone:** All the 4 motors must rotate at a higher speed. Throttle is controlled by moving the left joystick up & down.
@@ -427,39 +427,39 @@ To learn manual controls, stability handling, and motor mixing using a drone sim
 
 [click here](https://youtu.be/1BjitHYUFV0?si=XfrWYASab-bjU8J2) to watch the video.
 # **3.FLYING THE AIRBLOCK DRONE**
-### OBJECTIVE :
+#### **OBJECTIVE :**
 To learn about and operate the Airblock Drone available in the lab.
-## LEARNING & OUTCOMES :
+#### **LEARNING & OUTCOMES :**
 - In this task I learnt about the complete details of airblock such as battery ,transmission etc.
 - After the completition of second task I played this game with the airblock .
 - I learnt the controls of the airblock by using **MAKEBLOCK** application.
 - This task really helped me to learn the all the controls .
   
-### IMAGE OF AIRBLOCK:
+#### **IMAGE OF AIRBLOCK:**
 ![image alt](https://github.com/sujan935/simulator_sujana/blob/main/airblock.jpg?raw=true)
 
 Airblock have six blade module and one main module. The main module has the battery compartment with it . The six blade module contains six coreless motors in which three are of same kind & other of another same kind .Totally six blade module can be arranged in different manner . For hexacopter drones to fly correctiy motor should me arranged alternatively.
 
 This airblock is controlled by the application **MAKEBLOCK** . To connect the airblock bluetooth is required. The outer body of the airblock is made up of styrofoam,which will not broken easily.
 
-### COMPONENTS OF AIRBLOCK :
+#### **COMPONENTS OF AIRBLOCK :**
 ![image alt](https://github.com/sujan935/simulator_sujana/blob/main/component%20drone%20airblock.jpg?raw=true)
 
-### DIFFERENT TRANSMISSION OF AIRBLOCK :
+#### **DIFFERENT TRANSMISSION OF AIRBLOCK :**
 ![image alt](https://github.com/sujan935/simulator_sujana/blob/main/transmission.png?raw=true)
 
-### SPECIFICATIONS/FEATURE OF AIRBLOCK :
+#### **SPECIFICATIONS/FEATURE OF AIRBLOCK :**
 ![image alt](https://github.com/sujan935/simulator_sujana/blob/main/specifications.png?raw=true)
 
 [click here](https://github.com/sujan935/simulator_sujana/blob/main/specifications.png?raw=true) to watch the video
 # **THANK YOU**
 # **TASK 1 : UNDERSTAND ABOUT ESC**
-### **OBJECTIVE :** 
+#### **OBJECTIVE :** 
 - To control the speed of a BLDC motor using Arduino UNO, ESC, and a potentiometer.
 - Control the speed of a BLDC motor using an Electronic Speed Controller (ESC), Arduino UNO, and a potentiometer.
 - Understand the concept of ESC calibration and its significance.
 
-### **OUTCOMES & LEARNINGS :**
+#### **OUTCOMES & LEARNINGS :**
 - In this task I learnt about the principle of BLDC motor .
 - With the help of reference document I learnt the detais of BLDC motor .
 - And by usimg **RPM = (Motor KV * the supplied voltage )** I calculated the RPM of given motor .
@@ -467,17 +467,17 @@ This airblock is controlled by the application **MAKEBLOCK** . To connect the ai
 - With the help of reference video I learnt about the ESC calibration.
 - At the end by doing the connections I controlled the speed .
   
- ### **WORKING PRINCIPLE OF BLDC MOTOR :**
+ #### **WORKING PRINCIPLE OF BLDC MOTOR :**
  - The working principle of a BLDC motor (Brushless DC motor) is based on the Lorentz force law, which states that a current-carrying conductor in a magnetic field experiences a force.
 - A BLDC motor consists of two main parts: the rotor, which has permanent magnets, and the stator, which contains windings. 
 
- ### **Image of BLDC Motor :**
+ #### **Image of BLDC Motor :**
  - BLDC motor are type of motor which does not contains  carbon brush.
  - In this task I used 1400KV motor which give RPM of 15,540 when 3S battery is used.
    
  ![ image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/bldc%20motor%201.png?raw=true)
 
- ### **Specifications of ESC :**
+ #### **Specifications of ESC :**
 
 - Electronic Speed Controller (ESC) it is used to control the speed of  the motor .
 - It can resist the current upto 30A  & it has three phase wires which are directly connected to the motor phase wires.
@@ -485,7 +485,7 @@ This airblock is controlled by the application **MAKEBLOCK** . To connect the ai
   
  ![ image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/bldc%20motor%203.png?raw=true)
 
- ### **PWM Signal Chart :**
+ #### **PWM Signal Chart :**
 
  - Arudino sends PWM signal to the ESC . ESC interprets that signal and provides three- phase AC power to the BLDC motor.
  - The width of the PWM decides the how fast motor spins.
@@ -495,17 +495,17 @@ This airblock is controlled by the application **MAKEBLOCK** . To connect the ai
 
  ![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/bldc%20motor%204.png?raw=true)
 
- ### **Circuit Connection :**
+ #### **Circuit Connection :**
  - This is the actual circuit connection of speed control.
   
  ![ image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/circuit%20bldc.png?raw=true)
  
- ### **Arudino Program :**
+ #### **Arudino Program :**
  - This is the program which I uploaded in the **Arudino IDE** app.
   
  ![ image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/program%20bldc.png?raw=true)
 
-### **Calibration Graph & Procedure of Calibration:**
+#### **Calibration Graph & Procedure of Calibration:**
 BLDC Motor Calibration Procedure Steps:
 
 1. Connect the BLDC motor to the ESC and power supply.
