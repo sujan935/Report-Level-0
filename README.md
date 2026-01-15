@@ -538,4 +538,31 @@ BLDC Motor Calibration Procedure Steps:
 
 [click here](https://youtu.be/4AhlNFClxGQ?feature=shared) to watch task video done by me. 
 
+# **TASK 9 : DGCA Regulations**
+#### **OBJECTIVE :**
+ To understand the legal framework for operating drones in India.
+
+ #### **OUTCOMES & LEARNINGS :**
+ - In this task I learnt about what are the rules we should know before flying a drone in India.
+ - And also this task helped me to learn about different zones to fly a drone .
+ - With the help of all the docuement and video I made a flowchart using **NOTION**.
+  
+  #### **DRONE RULES 2021 :**
+  ![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/Screenshot%202026-01-14%20204436.png?raw=true)
+
+  #### **DIFFERENT DRONE FLY ZONES IN INDIA :**
+  ![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/Screenshot%202026-01-14%20210515.png?raw=true)
+
+  #### **FLOWCHART 1 :**
+
+  ![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/India%20Drone%20Rules%20Flow-2026-01-15-061248.png?raw=true)
+
+  #### **FLOWCHART 2 :**
+
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/India%20Drone%20Rules%20Flow-2026-01-15-063422.png?raw=true)
+
+#### **BVLOS FLOWCHART :**
+
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/India%20Drone%20Rules%20Flow-2026-01-15-065011.png?raw=true)
+
 
