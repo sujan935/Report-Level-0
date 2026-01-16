@@ -538,7 +538,121 @@ BLDC Motor Calibration Procedure Steps:
 
 [click here](https://youtu.be/4AhlNFClxGQ?feature=shared) to watch task video done by me. 
 
-# **TASK 9 : DGCA Regulations**
+# **TASK 7 : BASIS OF  PID**
+#### **OBJECTIVE :**
+- To understand PID tuning for stability in UAVs.
+- Understand PID tuning for UAV stability
+- Learn how GPS Hold and Altitude Hold work, tabulate the differences between the two
+- Tabulate the differences between GPS Hold and Altitude Hold
+  
+#### **OUTCOMES & LEARNINGS :**
+- In this particular task I learnt about what is P,I and D.
+- What is the importance of PID in stability of a drone.
+- At the end I learnt about GPS Hold and Altitude Hold. And tabulated the difference between them.
+
+#### **Information About PID:**
+Proportional-integral-derivative (PID) controllers play a crucial role in the aerospace industry, ensuring the safety, precision, and reliability of various systems. These controllers are fundamental in maintaining stability and performance in complex aerospace applications, from aircraft flight control systems to spacecraft navigation. This blog will explore the significance of PID controllers in aerospace, their working principles, applications, and advancements that enhance their effectiveness.
+
+**Importance of PID Controllers in Aerospace**
+
+- **Stability and Precision :**
+In aerospace applications, maintaining stability and precision is paramount. PID controllers are essential for achieving this by continuously adjusting control surfaces, thrust levels, and other parameters to keep the aircraft or spacecraft on the desired trajectory. The precise control offered by PID systems ensures smooth and accurate responses to pilot inputs and external disturbances.
+
+- **Robustness and Reliability :**
+Aerospace systems operate in highly dynamic and unpredictable environments. PID controllers are robust and reliable, capable of handling variations in operating conditions, such as changes in airspeed, altitude, and atmospheric disturbances. Their ability to adapt to these conditions ensures consistent performance and enhances the overall safety of the vehicle.
+
+- **Real-time Response :**
+Aerospace systems require real-time response to control inputs and environmental changes. PID controllers, with their fast processing and immediate corrective actions, are well-suited for such applications. They enable quick adjustments to maintain stability and control, critical for safe and efficient flight operations.
+
+
+#### **How PID works with Inertia :**
+
+1. Aircraft possess **inertia**, meaning once they start moving or rotating, they do not stop immediately.
+2. A **PID controller** is used to overcome this inertia and stabilize aircraft motion.
+3. The **Proportional (P)** term reacts to the **current error** caused after inertia has already moved the aircraft.
+4. P provides quick correction but cannot stop motion instantly due to inertia.
+5. The **Integral (I)** term corrects **long-term errors** caused by constant forces like weight imbalance or wind.
+6. I slowly builds correction to remove steady-state error created by inertial effects.
+7. The **Derivative (D)** term monitors how **fast the aircraft is moving or rotating**.
+8. D anticipates the effect of inertia and applies corrective action early.
+9. This damping action prevents **overshoot and oscillations** due to inertia.
+10. Thus, PID control ensures **stable, smooth, and accurate aircraft flight despite inertia**.
+    
+#### **Different modes in aircraft :** 
+- **Altitude Mode :** Move the left side joystick towards right for 5 sec . Then it will be armed. Using the key set altitude hold mode . So if altitude is set 20m from ground then drone will not move above it. 
+- **Land Mode :** Put the drone into land mode and it will automatically land without throttle down. This procedure helps when there will be less battery power in drone.
+- **Loiter Mode (GPS Hold) :** In this mode drone is set to particular position can't be changed. That means drone's logitude & latitude remains same.
+- **RTL(Return to Launch) :** Drone will move some particular height and comes back to intial position.
+  
+
+#### **Difference b\w Altitude Hold & GPS Hold :**
+| Feature              | Altitude Hold            | GPS Hold (Position Hold)     |
+| -------------------- | ------------------------ | ---------------------------- |
+| Primary function     | Maintains height         | Maintains position           |
+| Axis controlled      | Vertical (Z-axis)        | Horizontal (X & Y) + Z       |
+| Main sensors         | Barometer, IMU           | GPS, Compass, IMU, Barometer |
+| Wind resistance      | No horizontal correction | Actively fights wind drift   |
+| Horizontal movement  | Allowed                  | Restricted                   |
+| Throttle control     | Automatic                | Automatic                    |
+| Roll & pitch control | Manual                   | Automatic                    |
+| GPS required         | ❌ No                     | ✅ Yes                        |
+| Accuracy             | Moderate                 | Depends on GPS quality       |
+| Typical use          | Smooth flying, landing   | Hovering, aerial photography |
+
+
+ # **TASK 1 : INTRODUTION TO AERODYNAMICS AND AIRCRAFT STRUCTURE**
+#### **OBJECTIVE :** 
+To understand fundamental aerodynamic principles and forces in aviation.
+
+#### **OUTCOMES & LEARNINGS :**
+- In this task I learnt the basic concept of aircraft like all different types of forces.
+- And also this task helped me  to know about Bernoulli  equation as well as Newton 3rd law.
+- And this task will give the knowledge about instrument used to measure the height of the aircraft etc.
+  
+**IMAGES FROM MY STUDY NOTEBOOK:**
+
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/tak%201%201%20page.jpg?raw=true)
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/2%20page.jpg?raw=true)
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/third%20page.jpg?raw=true)
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/4%20page.jpg?raw=true)
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/5%20page.jpg?raw=true)
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/6%20page.jpg?raw=true)
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/7%20page.jpg?raw=true)
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/8%20page.jpg?raw=true)
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/9%20page.jpg?raw=true)
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/10%20page.jpg?raw=true)
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/11%20page.jpg?raw=true)
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/12%20page.jpg?raw=true)
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/13%20page.jpg?raw=true)
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/frequency%20modulated.jpg?raw=true)
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/15%20page.jpg?raw=true)
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/16%20page.jpg?raw=true)
+
+# **TASK 8 : Different Flight Modes in Mission Planner**
+#### **OBJECTIVE :**
+ To understand the various flight modes available in Mission Planner and their specific applications.
+
+ #### **OUTCOMES & LEARNINGS :**
+ - In this task I learnt about varies flight modes in mission planner.
+ - In this task there are nearly 25 different flight modes to be learnt , I got the knowledge of all 25 flight modes.
+  
+  #### **DIFFERENT MODES AND THEIR SPECIFICATIONS**
+  ![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/Screenshot%202026-01-13%20190106.png?raw=true)
+  ![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/Screenshot%202026-01-13%20190142.png?raw=true)
+  ![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/Screenshot%202026-01-13%20190203.png?raw=true)
+
+  #### **IMAGES FROM MY STUDY BOOK :**
+
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/task%208%201%20page.jpg?raw=true)
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/marvel.jpg?raw=true)
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/task%208%203.jpg?raw=true)
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/task%208%204.jpg?raw=true)
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/task%208%205.jpg?raw=true)
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/task%208%206.jpg?raw=true)
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/task%208%207.jpg?raw=true)
+![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/task%208%208.jpg?raw=true)
+
+# **TASK 9 : DGCA REGULATIONS**
 #### **OBJECTIVE :**
  To understand the legal framework for operating drones in India.
 
@@ -564,5 +678,3 @@ BLDC Motor Calibration Procedure Steps:
 #### **BVLOS FLOWCHART :**
 
 ![image alt](https://github.com/sujan935/sujan_level-1--images/blob/main/India%20Drone%20Rules%20Flow-2026-01-15-065011.png?raw=true)
-
-
